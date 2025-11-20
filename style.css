@@ -6,7 +6,8 @@ body{
 }
 
 #hero{
-    width: 90vw;
+    max-width: 90vw;
+    max-height: 60vh;
     margin: 0 auto;
     display: block;
 }
@@ -77,3 +78,4 @@ h1{
         transform: scale(0.9);
     }
 }
+

@@ -1,1 +1,1 @@
-[Figma Prototype / Design](file:///mnt/data/Screenshot_6.png)
+[Figma Prototype / Design](https://www.figma.com/design/5pBgQkoNKx4Rzr5jFCkVER/Untitled?node-id=0-1&p=f&t=GnGWqmcFufTU7GNV-0)
